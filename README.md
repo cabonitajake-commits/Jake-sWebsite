@@ -1,4 +1,6 @@
 # Jake-sWebsite[index.html](https://github.com/user-attachments/files/22249054/index.html)
+[index.html](https://github.com/user-attachments/files/22249093/index.html)
+<img width="512" height="512" alt="unnamed" src="https://github.com/user-attachments/assets/be5b61d4-0874-416d-86fb-6ec2a6f2960e" />[index.html](https://github.com/user-attachments/files/22249108/index.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
